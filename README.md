@@ -194,6 +194,7 @@ PHM_Nexus/
 ## Contributors
 
 * **Sravani** – Machine Learning, Data Engineering, Analytics, System Integration
+ 
   GitHub: https://github.com/sravani-torlikonda
   
 * **Rishik** –  Deep Learning, Warranty Intelligence, Dashboard Development, Documentation
