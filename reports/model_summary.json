@@ -1,0 +1,19 @@
+{
+  "xgboost_failure_classifier": {
+    "roc_auc": 0.9461,
+    "n_features": 5
+  },
+  "lstm_rul_regressor": {
+    "mae": 6.81,
+    "rmse": 16.74,
+    "r2": 0.6735,
+    "parameters": 168834,
+    "seq_len": 30
+  },
+  "business_impact": {
+    "warranty_reserve_savings_usd": -70646,
+    "supplier_chargeback_usd": 2088571,
+    "critical_assets_flagged": 54,
+    "fleet_size": 60
+  }
+}

@@ -1,0 +1,1702 @@
+[
+  {
+    "timestamp": "2026-06-22T06:59:45.160462",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 1,
+    "true_rul": 1085,
+    "predicted_rul": 0.4,
+    "fail_probability": 0.0,
+    "warranty_risk": 39.9,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.11,
+      "resistance": 0.0134,
+      "temperature": 31.6,
+      "voltage": 350.52
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.167116",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 2,
+    "true_rul": 1084,
+    "predicted_rul": 0.5,
+    "fail_probability": 0.0,
+    "warranty_risk": 39.9,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.01,
+      "resistance": 0.0153,
+      "temperature": 33.3,
+      "voltage": 351.54
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.173219",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 3,
+    "true_rul": 1083,
+    "predicted_rul": 7.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 38.6,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.03,
+      "resistance": 0.015,
+      "temperature": 35.3,
+      "voltage": 350.23
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.179251",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 4,
+    "true_rul": 1082,
+    "predicted_rul": 16.5,
+    "fail_probability": 0.0,
+    "warranty_risk": 36.7,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.06,
+      "resistance": 0.0144,
+      "temperature": 32.8,
+      "voltage": 351.05
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.185320",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 5,
+    "true_rul": 1081,
+    "predicted_rul": 23.7,
+    "fail_probability": 0.0,
+    "warranty_risk": 35.3,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.92,
+      "resistance": 0.0166,
+      "temperature": 30.2,
+      "voltage": 351.54
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.191482",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 6,
+    "true_rul": 1080,
+    "predicted_rul": 28.6,
+    "fail_probability": 0.0,
+    "warranty_risk": 34.3,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.02,
+      "resistance": 0.0158,
+      "temperature": 33.7,
+      "voltage": 350.02
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.198015",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 7,
+    "true_rul": 1079,
+    "predicted_rul": 32.9,
+    "fail_probability": 0.0,
+    "warranty_risk": 33.4,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.96,
+      "resistance": 0.0134,
+      "temperature": 33.0,
+      "voltage": 350.73
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.204330",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 8,
+    "true_rul": 1078,
+    "predicted_rul": 37.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 32.6,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.98,
+      "resistance": 0.0135,
+      "temperature": 32.9,
+      "voltage": 349.65
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.210780",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 9,
+    "true_rul": 1077,
+    "predicted_rul": 41.3,
+    "fail_probability": 0.0,
+    "warranty_risk": 31.7,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.08,
+      "resistance": 0.0152,
+      "temperature": 33.6,
+      "voltage": 349.26
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.217093",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 10,
+    "true_rul": 1076,
+    "predicted_rul": 44.8,
+    "fail_probability": 0.0,
+    "warranty_risk": 31.0,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.92,
+      "resistance": 0.0148,
+      "temperature": 32.5,
+      "voltage": 349.27
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.223334",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 11,
+    "true_rul": 1075,
+    "predicted_rul": 48.0,
+    "fail_probability": 0.0,
+    "warranty_risk": 30.4,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.1,
+      "resistance": 0.0148,
+      "temperature": 35.5,
+      "voltage": 349.65
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.229622",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 12,
+    "true_rul": 1074,
+    "predicted_rul": 50.6,
+    "fail_probability": 0.0,
+    "warranty_risk": 29.9,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.06,
+      "resistance": 0.0146,
+      "temperature": 29.0,
+      "voltage": 351.41
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.236147",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 13,
+    "true_rul": 1073,
+    "predicted_rul": 52.6,
+    "fail_probability": 0.0,
+    "warranty_risk": 29.5,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.96,
+      "resistance": 0.0149,
+      "temperature": 33.8,
+      "voltage": 350.42
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.242457",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 14,
+    "true_rul": 1072,
+    "predicted_rul": 54.9,
+    "fail_probability": 0.0,
+    "warranty_risk": 29.0,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.0,
+      "resistance": 0.015,
+      "temperature": 31.3,
+      "voltage": 348.78
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.248646",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 15,
+    "true_rul": 1071,
+    "predicted_rul": 57.9,
+    "fail_probability": 0.0,
+    "warranty_risk": 28.4,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.94,
+      "resistance": 0.0141,
+      "temperature": 33.1,
+      "voltage": 351.56
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.255004",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 16,
+    "true_rul": 1070,
+    "predicted_rul": 61.7,
+    "fail_probability": 0.0,
+    "warranty_risk": 27.7,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.97,
+      "resistance": 0.0138,
+      "temperature": 31.0,
+      "voltage": 350.47
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.261494",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 17,
+    "true_rul": 1069,
+    "predicted_rul": 66.4,
+    "fail_probability": 0.0,
+    "warranty_risk": 26.7,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.9,
+      "resistance": 0.0161,
+      "temperature": 31.8,
+      "voltage": 350.92
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.267853",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 18,
+    "true_rul": 1068,
+    "predicted_rul": 72.6,
+    "fail_probability": 0.0,
+    "warranty_risk": 25.5,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.06,
+      "resistance": 0.0143,
+      "temperature": 35.4,
+      "voltage": 350.29
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.274173",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 19,
+    "true_rul": 1067,
+    "predicted_rul": 80.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 24.0,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.99,
+      "resistance": 0.0154,
+      "temperature": 32.3,
+      "voltage": 350.2
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.280510",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 20,
+    "true_rul": 1066,
+    "predicted_rul": 88.6,
+    "fail_probability": 0.0,
+    "warranty_risk": 22.3,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.97,
+      "resistance": 0.0135,
+      "temperature": 31.3,
+      "voltage": 352.01
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.286610",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 21,
+    "true_rul": 1065,
+    "predicted_rul": 96.7,
+    "fail_probability": 0.0,
+    "warranty_risk": 20.7,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.88,
+      "resistance": 0.0147,
+      "temperature": 31.6,
+      "voltage": 351.73
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.292772",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 22,
+    "true_rul": 1064,
+    "predicted_rul": 104.4,
+    "fail_probability": 0.0,
+    "warranty_risk": 19.1,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.95,
+      "resistance": 0.014,
+      "temperature": 33.9,
+      "voltage": 348.17
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.299129",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 23,
+    "true_rul": 1063,
+    "predicted_rul": 111.9,
+    "fail_probability": 0.0,
+    "warranty_risk": 17.6,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.01,
+      "resistance": 0.0162,
+      "temperature": 34.6,
+      "voltage": 350.86
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.305316",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 24,
+    "true_rul": 1062,
+    "predicted_rul": 116.5,
+    "fail_probability": 0.0,
+    "warranty_risk": 16.7,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.0,
+      "resistance": 0.0163,
+      "temperature": 35.1,
+      "voltage": 349.61
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.313827",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 25,
+    "true_rul": 1061,
+    "predicted_rul": 119.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 16.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.85,
+      "resistance": 0.0153,
+      "temperature": 33.0,
+      "voltage": 348.77
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.319955",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 26,
+    "true_rul": 1060,
+    "predicted_rul": 121.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 15.8,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.88,
+      "resistance": 0.0148,
+      "temperature": 34.1,
+      "voltage": 351.31
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.326102",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 27,
+    "true_rul": 1059,
+    "predicted_rul": 122.9,
+    "fail_probability": 0.0,
+    "warranty_risk": 15.4,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.92,
+      "resistance": 0.016,
+      "temperature": 33.9,
+      "voltage": 350.65
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.332397",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 28,
+    "true_rul": 1058,
+    "predicted_rul": 124.7,
+    "fail_probability": 0.0,
+    "warranty_risk": 15.1,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.87,
+      "resistance": 0.0155,
+      "temperature": 35.1,
+      "voltage": 349.35
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.338615",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 29,
+    "true_rul": 1057,
+    "predicted_rul": 126.9,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.6,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.87,
+      "resistance": 0.0166,
+      "temperature": 31.7,
+      "voltage": 350.84
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.345020",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 30,
+    "true_rul": 1056,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.75,
+      "resistance": 0.0154,
+      "temperature": 32.6,
+      "voltage": 350.55
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.351273",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 31,
+    "true_rul": 1055,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.88,
+      "resistance": 0.0148,
+      "temperature": 34.1,
+      "voltage": 350.71
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.357590",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 32,
+    "true_rul": 1054,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.19,
+      "resistance": 0.0156,
+      "temperature": 34.2,
+      "voltage": 348.43
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.364069",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 33,
+    "true_rul": 1053,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.02,
+      "resistance": 0.0158,
+      "temperature": 33.2,
+      "voltage": 350.8
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.370207",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 34,
+    "true_rul": 1052,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.0,
+      "resistance": 0.0168,
+      "temperature": 33.9,
+      "voltage": 351.61
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.376499",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 35,
+    "true_rul": 1051,
+    "predicted_rul": 129.3,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.1,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.12,
+      "resistance": 0.0151,
+      "temperature": 31.7,
+      "voltage": 349.4
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.382998",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 36,
+    "true_rul": 1050,
+    "predicted_rul": 129.3,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.1,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.78,
+      "resistance": 0.0141,
+      "temperature": 33.7,
+      "voltage": 350.87
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.389269",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 37,
+    "true_rul": 1049,
+    "predicted_rul": 129.3,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.18,
+      "resistance": 0.0144,
+      "temperature": 32.9,
+      "voltage": 350.68
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.395526",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 38,
+    "true_rul": 1048,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.93,
+      "resistance": 0.015,
+      "temperature": 31.8,
+      "voltage": 352.17
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.401823",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 39,
+    "true_rul": 1047,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.03,
+      "resistance": 0.0147,
+      "temperature": 35.3,
+      "voltage": 349.99
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.408547",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 40,
+    "true_rul": 1046,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.89,
+      "resistance": 0.0159,
+      "temperature": 33.3,
+      "voltage": 350.93
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.414751",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 41,
+    "true_rul": 1045,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.95,
+      "resistance": 0.015,
+      "temperature": 32.0,
+      "voltage": 350.43
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.421077",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 42,
+    "true_rul": 1044,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.96,
+      "resistance": 0.0146,
+      "temperature": 32.5,
+      "voltage": 349.64
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.427544",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 43,
+    "true_rul": 1043,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.1,
+      "resistance": 0.0165,
+      "temperature": 32.8,
+      "voltage": 351.02
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.433891",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 44,
+    "true_rul": 1042,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.03,
+      "resistance": 0.0137,
+      "temperature": 33.5,
+      "voltage": 351.23
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.440132",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 45,
+    "true_rul": 1041,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.94,
+      "resistance": 0.0141,
+      "temperature": 32.2,
+      "voltage": 349.79
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.446434",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 46,
+    "true_rul": 1040,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.99,
+      "resistance": 0.0162,
+      "temperature": 32.1,
+      "voltage": 348.8
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.452773",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 47,
+    "true_rul": 1039,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.96,
+      "resistance": 0.0152,
+      "temperature": 33.1,
+      "voltage": 350.0
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.458870",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 48,
+    "true_rul": 1038,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.99,
+      "resistance": 0.0166,
+      "temperature": 33.3,
+      "voltage": 350.18
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.465198",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 49,
+    "true_rul": 1037,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.88,
+      "resistance": 0.015,
+      "temperature": 34.2,
+      "voltage": 350.76
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.471680",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 50,
+    "true_rul": 1036,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.74,
+      "resistance": 0.0144,
+      "temperature": 30.1,
+      "voltage": 351.38
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.477908",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 51,
+    "true_rul": 1035,
+    "predicted_rul": 129.3,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.1,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.96,
+      "resistance": 0.0144,
+      "temperature": 31.7,
+      "voltage": 352.15
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.484368",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 52,
+    "true_rul": 1034,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.9,
+      "resistance": 0.0139,
+      "temperature": 34.8,
+      "voltage": 349.94
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.490472",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 53,
+    "true_rul": 1033,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.83,
+      "resistance": 0.0142,
+      "temperature": 33.9,
+      "voltage": 348.36
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.496762",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 54,
+    "true_rul": 1032,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.93,
+      "resistance": 0.0156,
+      "temperature": 33.0,
+      "voltage": 349.42
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.503090",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 55,
+    "true_rul": 1031,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.9,
+      "resistance": 0.015,
+      "temperature": 31.3,
+      "voltage": 350.21
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.509299",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 56,
+    "true_rul": 1030,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.07,
+      "resistance": 0.0135,
+      "temperature": 30.3,
+      "voltage": 350.44
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.515542",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 57,
+    "true_rul": 1029,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.98,
+      "resistance": 0.0166,
+      "temperature": 36.7,
+      "voltage": 350.72
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.521934",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 58,
+    "true_rul": 1028,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.94,
+      "resistance": 0.0165,
+      "temperature": 35.9,
+      "voltage": 349.72
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.528278",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 59,
+    "true_rul": 1027,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.03,
+      "resistance": 0.016,
+      "temperature": 34.7,
+      "voltage": 347.31
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.534618",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 60,
+    "true_rul": 1026,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.95,
+      "resistance": 0.0153,
+      "temperature": 31.3,
+      "voltage": 349.11
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.540700",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 61,
+    "true_rul": 1025,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.01,
+      "resistance": 0.0137,
+      "temperature": 32.0,
+      "voltage": 351.57
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.547149",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 62,
+    "true_rul": 1024,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.96,
+      "resistance": 0.0148,
+      "temperature": 31.9,
+      "voltage": 350.58
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.553519",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 63,
+    "true_rul": 1023,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.92,
+      "resistance": 0.0143,
+      "temperature": 30.5,
+      "voltage": 349.75
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.559944",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 64,
+    "true_rul": 1022,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.87,
+      "resistance": 0.0146,
+      "temperature": 32.1,
+      "voltage": 349.1
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.566429",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 65,
+    "true_rul": 1021,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.0,
+      "resistance": 0.0159,
+      "temperature": 31.3,
+      "voltage": 349.66
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.572828",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 66,
+    "true_rul": 1020,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.98,
+      "resistance": 0.0179,
+      "temperature": 35.1,
+      "voltage": 349.29
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.579136",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 67,
+    "true_rul": 1019,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.99,
+      "resistance": 0.0162,
+      "temperature": 29.4,
+      "voltage": 349.04
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.585348",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 68,
+    "true_rul": 1018,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.71,
+      "resistance": 0.0163,
+      "temperature": 33.4,
+      "voltage": 349.77
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.591822",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 69,
+    "true_rul": 1017,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.11,
+      "resistance": 0.0138,
+      "temperature": 33.7,
+      "voltage": 352.15
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.597965",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 70,
+    "true_rul": 1016,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.97,
+      "resistance": 0.0149,
+      "temperature": 33.9,
+      "voltage": 349.81
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.604487",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 71,
+    "true_rul": 1015,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.82,
+      "resistance": 0.016,
+      "temperature": 32.1,
+      "voltage": 351.3
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.610924",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 72,
+    "true_rul": 1014,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.89,
+      "resistance": 0.0149,
+      "temperature": 31.6,
+      "voltage": 349.35
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.617241",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 73,
+    "true_rul": 1013,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.88,
+      "resistance": 0.0144,
+      "temperature": 31.9,
+      "voltage": 350.77
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.623368",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 74,
+    "true_rul": 1012,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.88,
+      "resistance": 0.0154,
+      "temperature": 33.3,
+      "voltage": 351.33
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.629660",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 75,
+    "true_rul": 1011,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.7,
+      "resistance": 0.0133,
+      "temperature": 31.5,
+      "voltage": 348.71
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.636244",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 76,
+    "true_rul": 1010,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.79,
+      "resistance": 0.0154,
+      "temperature": 32.2,
+      "voltage": 351.0
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.642602",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 77,
+    "true_rul": 1009,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.94,
+      "resistance": 0.0168,
+      "temperature": 33.8,
+      "voltage": 349.99
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.649067",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 78,
+    "true_rul": 1008,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.94,
+      "resistance": 0.0146,
+      "temperature": 32.4,
+      "voltage": 348.36
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.655395",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 79,
+    "true_rul": 1007,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.81,
+      "resistance": 0.0168,
+      "temperature": 34.9,
+      "voltage": 349.89
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.661650",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 80,
+    "true_rul": 1006,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.93,
+      "resistance": 0.0164,
+      "temperature": 32.4,
+      "voltage": 353.35
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.667940",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 81,
+    "true_rul": 1005,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.77,
+      "resistance": 0.0154,
+      "temperature": 32.9,
+      "voltage": 349.4
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.674195",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 82,
+    "true_rul": 1004,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.76,
+      "resistance": 0.0145,
+      "temperature": 33.0,
+      "voltage": 350.77
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.680547",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 83,
+    "true_rul": 1003,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.11,
+      "resistance": 0.014,
+      "temperature": 30.0,
+      "voltage": 349.05
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.686810",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 84,
+    "true_rul": 1002,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.84,
+      "resistance": 0.015,
+      "temperature": 32.2,
+      "voltage": 350.26
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.692951",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 85,
+    "true_rul": 1001,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.0,
+      "resistance": 0.0149,
+      "temperature": 33.9,
+      "voltage": 348.0
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.699429",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 86,
+    "true_rul": 1000,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.96,
+      "resistance": 0.015,
+      "temperature": 30.0,
+      "voltage": 348.64
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.705557",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 87,
+    "true_rul": 999,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.81,
+      "resistance": 0.0152,
+      "temperature": 30.9,
+      "voltage": 350.86
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.711718",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 88,
+    "true_rul": 998,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.81,
+      "resistance": 0.0162,
+      "temperature": 32.9,
+      "voltage": 348.9
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.718039",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 89,
+    "true_rul": 997,
+    "predicted_rul": 129.0,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.82,
+      "resistance": 0.0157,
+      "temperature": 32.2,
+      "voltage": 347.87
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.724490",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 90,
+    "true_rul": 996,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 40.13,
+      "resistance": 0.0169,
+      "temperature": 34.7,
+      "voltage": 351.52
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.730843",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 91,
+    "true_rul": 995,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.96,
+      "resistance": 0.0151,
+      "temperature": 31.3,
+      "voltage": 348.85
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.737197",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 92,
+    "true_rul": 994,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.76,
+      "resistance": 0.0147,
+      "temperature": 33.6,
+      "voltage": 351.57
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.743391",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 93,
+    "true_rul": 993,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.82,
+      "resistance": 0.0154,
+      "temperature": 31.6,
+      "voltage": 349.79
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.749848",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 94,
+    "true_rul": 992,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.79,
+      "resistance": 0.015,
+      "temperature": 28.9,
+      "voltage": 349.38
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.756155",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 95,
+    "true_rul": 991,
+    "predicted_rul": 129.2,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.81,
+      "resistance": 0.0133,
+      "temperature": 30.6,
+      "voltage": 348.41
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.762365",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 96,
+    "true_rul": 990,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.88,
+      "resistance": 0.0163,
+      "temperature": 31.5,
+      "voltage": 348.85
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.770860",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 97,
+    "true_rul": 989,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.93,
+      "resistance": 0.0144,
+      "temperature": 32.3,
+      "voltage": 349.76
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.776990",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 98,
+    "true_rul": 988,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.83,
+      "resistance": 0.0148,
+      "temperature": 35.5,
+      "voltage": 348.56
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.783198",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 99,
+    "true_rul": 987,
+    "predicted_rul": 129.1,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.91,
+      "resistance": 0.0148,
+      "temperature": 30.1,
+      "voltage": 348.88
+    }
+  },
+  {
+    "timestamp": "2026-06-22T06:59:45.789339",
+    "unit_id": 19,
+    "asset_type": "Tata EV Battery Pack",
+    "cycle": 100,
+    "true_rul": 986,
+    "predicted_rul": 129.0,
+    "fail_probability": 0.0,
+    "warranty_risk": 14.2,
+    "alert": false,
+    "sensors": {
+      "capacity_kwh": 39.85,
+      "resistance": 0.0142,
+      "temperature": 31.6,
+      "voltage": 350.01
+    }
+  }
+]
