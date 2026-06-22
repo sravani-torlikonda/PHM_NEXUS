@@ -2,73 +2,114 @@
 
 ## Overview
 
-PHM Nexus is an AI-driven Predictive Health Management (PHM) platform designed to transform raw asset telemetry into actionable reliability, warranty, and financial intelligence.
+PHM Nexus is an advanced Predictive Health Management (PHM) platform that transforms raw asset telemetry into actionable reliability, maintenance, warranty, and financial intelligence.
 
-The platform combines machine learning, deep learning, Digital Twin concepts, and fleet analytics to predict failures, estimate Remaining Useful Life (RUL), detect supplier quality issues, and optimize warranty decisions across connected assets such as EV batteries, industrial motors, turbines, and manufacturing equipment.
+The platform combines Machine Learning, Deep Learning, Digital Twin concepts, and Fleet Analytics to predict failures, estimate Remaining Useful Life (RUL), identify supplier quality issues, and optimize warranty decisions across connected assets such as electric vehicles, industrial equipment, turbines, manufacturing systems, and critical infrastructure.
+
+By shifting organizations from reactive maintenance to predictive asset intelligence, PHM Nexus enables smarter lifecycle management, improved reliability, and reduced operational costs.
+
+---
 
 ## Problem Statement
 
-Most organizations still rely on reactive maintenance and fixed warranty policies. Failures are often identified only after breakdowns or warranty claims occur, leading to:
+Most organizations still rely on reactive maintenance strategies and fixed warranty policies. Critical component failures are often identified only after breakdowns or warranty claims occur, leading to:
 
-- High warranty costs
-- Unplanned downtime
-- Reduced asset reliability
-- Inefficient maintenance planning
-- Delayed detection of defective supplier batches
+* High warranty expenditure
+* Unplanned downtime
+* Reduced asset reliability
+* Inefficient maintenance scheduling
+* Increased operational costs
+* Delayed identification of defective supplier batches
 
-PHM Nexus addresses these challenges through predictive analytics and fleet-wide intelligence.
+Modern connected assets generate vast amounts of operational data, but much of this data remains underutilized for proactive decision-making.
+
+PHM Nexus addresses these challenges through AI-driven predictive analytics and fleet-wide asset intelligence.
 
 ---
 
 ## Key Features
 
 ### 🔮 Predictive Failure Detection
-Uses an XGBoost classifier to identify assets at risk of failure within a defined prediction window.
+
+Utilizes an XGBoost-based machine learning model to identify assets at elevated risk of failure before breakdowns occur.
 
 ### ⏳ Remaining Useful Life (RUL) Estimation
-Uses a Bidirectional LSTM neural network with attention mechanisms to estimate the remaining operational life of critical assets.
+
+Employs a Bidirectional LSTM neural network with attention mechanisms to estimate the remaining operational life of critical components.
 
 ### 📊 Dynamic Warranty Intelligence
-Generates real-time Warranty Risk Scores to support data-driven warranty and maintenance decisions.
+
+Generates real-time Warranty Risk Scores that support data-driven warranty planning and maintenance decisions.
 
 ### 🏭 Supplier Quality Intelligence
-Detects abnormal failure patterns across supplier batches and estimates potential supplier chargeback liability.
+
+Identifies abnormal failure patterns across supplier batches and estimates potential financial impact associated with defective components.
 
 ### 🌐 Digital Twin Dashboard
-Provides fleet-wide visualization of asset health, degradation trends, risk levels, and operational performance.
+
+Provides fleet-wide visualization of asset health, degradation trends, operational performance, and risk distribution.
 
 ### ⚡ Real-Time Telemetry Simulation
-Simulates IoT sensor streams to demonstrate live asset monitoring and predictive maintenance workflows.
+
+Simulates IoT sensor streams to demonstrate live monitoring, anomaly detection, and predictive maintenance workflows.
+
+### 📈 Fleet Risk Analytics
+
+Enables asset segmentation based on health, risk levels, utilization patterns, and predicted failure probability.
 
 ---
 
 ## Solution Architecture
 
-Data Sources → Feature Engineering → AI Models → Risk Intelligence Engine → Digital Twin Dashboard
-
-### Pipeline
-
-1. Telemetry data ingestion
-2. Feature engineering and health indicator extraction
-3. Failure classification using XGBoost
-4. RUL prediction using Bidirectional LSTM
-5. Warranty risk scoring
-6. Supplier quality analytics
-7. Fleet intelligence visualization
+```text
+Telemetry Sources
+        │
+        ▼
+Data Ingestion & Processing
+        │
+        ▼
+Feature Engineering
+        │
+ ┌──────┴──────┐
+ ▼             ▼
+Failure      RUL
+Prediction   Prediction
+(XGBoost)    (Bi-LSTM)
+ └──────┬──────┘
+        ▼
+Risk Intelligence Engine
+        │
+ ┌──────┼─────────┐
+ ▼      ▼         ▼
+Warranty  Supplier  Fleet
+Scoring   Analytics Intelligence
+        │
+        ▼
+Digital Twin Dashboard
+```
 
 ---
 
 ## Machine Learning Stack
 
-### Model 1: Failure Classifier
-- Algorithm: XGBoost
-- Objective: Predict near-term asset failures
-- Evaluation Metric: ROC-AUC
+### Failure Prediction Model
 
-### Model 2: RUL Predictor
-- Architecture: Bidirectional LSTM with Attention
-- Objective: Remaining Useful Life estimation
-- Evaluation Metric: Mean Absolute Error (MAE)
+* Algorithm: XGBoost Classifier
+* Objective: Predict near-term asset failures
+* Evaluation Metric: ROC-AUC
+
+### Remaining Useful Life Model
+
+* Architecture: Bidirectional LSTM with Attention
+* Objective: Estimate Remaining Useful Life (RUL)
+* Evaluation Metric: Mean Absolute Error (MAE)
+
+### Risk Intelligence Engine
+
+* Warranty Risk Scoring
+* Fleet Segmentation
+* Supplier Quality Assessment
+* Financial Impact Analysis
 
 ---
 
@@ -76,87 +117,94 @@ Data Sources → Feature Engineering → AI Models → Risk Intelligence Engine 
 
 PHM Nexus enables organizations to:
 
-- Reduce warranty expenditure
-- Minimize unplanned downtime
-- Improve asset reliability
-- Enable predictive maintenance
-- Detect supplier quality issues earlier
-- Improve lifecycle management decisions
+* Reduce warranty expenditure
+* Minimize unplanned downtime
+* Improve asset reliability
+* Enable predictive maintenance strategies
+* Detect supplier quality issues earlier
+* Optimize maintenance scheduling
+* Improve lifecycle management decisions
+* Enhance operational efficiency
 
 ### Demonstrated Results
 
-| Metric | Result |
-|----------|----------|
-| Failure Prediction AUC | 94.6% |
-| RUL Prediction MAE | 6.74 Cycles |
-| Estimated Fleet Reserve Savings | $70,646 |
-| Potential Supplier Chargebacks | $2,088,571 |
-| Downtime Reduction Potential | ~40% |
+| Metric                                 | Result      |
+| -------------------------------------- | ----------- |
+| Failure Prediction AUC                 | 94.6%       |
+| RUL Prediction MAE                     | 6.74 Cycles |
+| Estimated Fleet Reserve Savings        | $70,646     |
+| Potential Supplier Liability Detection | $2,088,571  |
+| Downtime Reduction Potential           | ~40%        |
 
 ---
 
-## Technology Stack
-
-### Programming Language
-- Python
-
-### Machine Learning
-- XGBoost
-- Scikit-learn
-
-### Deep Learning
-- PyTorch
-
-### Data Processing
-- NumPy
-- Pandas
-
-### Visualization
-- Matplotlib
-- Seaborn
-- Plotly
-
-### Dashboard & Interaction
-- IPyWidgets
-
----
 
 ## Project Structure
 
 ```text
 PHM_Nexus/
 ├── notebooks/
-│   └── tata-innovent_hackathon.ipynb
+│   └── phm_nexus_analysis.ipynb
+│
 ├── models/
 │   ├── xgb_failure_classifier.pkl
 │   ├── lstm_best.pt
 │   └── feature_scaler.pkl
+│
 ├── reports/
 │   ├── supplier_quality_report.csv
 │   ├── fleet_risk_matrix.csv
 │   └── simulation_telemetry.json
+│
 ├── data/
 │   └── phm_nexus_full_dataset.csv
+│
+├── requirements.txt
 └── README.md
 ```
 
+---
+
 ## Future Enhancements
 
-- Edge AI deployment using TensorFlow Lite / ONNX
-- Federated Learning across distributed fleets
-- Real-time cloud integration
-- Physics-informed Digital Twins
-- Enterprise warranty management integration
+* Edge AI deployment using ONNX Runtime and TensorRT
+* Federated Learning for distributed fleet intelligence
+* Physics-Informed Digital Twin integration
+* Real-time cloud deployment
+* Streaming analytics using Apache Kafka
+* Enterprise Asset Management (EAM) integration
+* Automated maintenance recommendation engine
 
-## Use Cases
+---
 
-- Electric Vehicles
-- Commercial Fleets
-- Aerospace Systems
-- Wind Turbines
-- Industrial Equipment
-- Smart Manufacturing
+## Potential Applications
 
-## Authors
+* Electric Vehicles (EVs)
+* Commercial Vehicle Fleets
+* Aerospace Systems
+* Wind Turbines
+* Industrial Motors
+* Manufacturing Equipment
+* Smart Factories
+* Energy Infrastructure
 
-Developed as part of the Tata Technologies InnoVent Hackathon initiative.
+---
+
+
+## Contributors
+
+* **Sravani** – Machine Learning, Data Engineering, Analytics, System Integration
+  GitHub: https://github.com/sravani-torlikonda
+  
+* **Rishik** –  Deep Learning, Warranty Intelligence, Dashboard Development, Documentation
+  GitHub: https://github.com/rishii-25
+
+## Disclaimer
+
+The results, financial estimates, and performance metrics presented in this project are based on the dataset, simulation environment, and evaluation methodology used within this implementation. Actual outcomes may vary depending on deployment conditions and operational environments.
+
+---
+
+## License
+
+This project is intended for educational, research, and demonstration purposes.
