@@ -198,6 +198,7 @@ PHM_Nexus/
   GitHub: https://github.com/sravani-torlikonda
   
 * **Rishik** –  Deep Learning, Warranty Intelligence, Dashboard Development, Documentation
+ 
   GitHub: https://github.com/rishii-25
 
 ## Disclaimer
